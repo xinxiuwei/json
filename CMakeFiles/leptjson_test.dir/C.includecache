@@ -7,6 +7,8 @@
 #IncludeRegexTransform: 
 
 /home/xxw/unix/json-master/leptjson.h
+stddef.h
+-
 
 /home/xxw/unix/json-master/leptjsontest.c
 stdio.h
